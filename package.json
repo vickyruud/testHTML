@@ -1,0 +1,24 @@
+{
+  "name": "testhtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyruud/testHTML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickyruud/testHTML/issues"
+  },
+  "homepage": "https://github.com/vickyruud/testHTML#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "morgan": "^1.10.0"
+  }
+}
